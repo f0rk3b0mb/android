@@ -1,0 +1,10 @@
+
+
+"/ad/ add.*, x27, 0xa, lsl 12;0x120]"
+
+0xa is dynamic from the value in pp.txt
+
+0x120 is also dynamic from the value in pp.txt
+
+
+This searches for the offset which can be used to pinpoint the function in the binary.
